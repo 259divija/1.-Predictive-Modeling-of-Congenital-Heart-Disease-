@@ -1,0 +1,2 @@
+Age,Weight (Kg),Height (cms),Genero,Diagnosis,Outcome,Heart Rate,oxygen saturation,Respiratory Rate,Systolic Blood Pressure,"Diastolic Blood Pressure, ",Mean Blood Pressure,Hour event in Minutes
+4.0,5.5,60.0,0.0,17.0,0.0,140.0,94.0,30.0,75.0,40.0,52.0,70.0
